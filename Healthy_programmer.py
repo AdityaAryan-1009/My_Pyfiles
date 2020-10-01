@@ -10,9 +10,9 @@ import datetime
 import time
 
 pygame.mixer.init()
-# pygame.mixer.music.load("")
-# pygame.mixer.music.load("")
-# pygame.mixer.music.load("")
 
-#variables
+
+#Wotk in progress if you can do anything then i am glad.
+
+
 
